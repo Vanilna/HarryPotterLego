@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.harrypoterlego"
+    namespace "com.harrypotterlego"
     defaultConfig {
-        applicationId "com.harrypoterlego"
+        applicationId "com.harrypotterlego"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

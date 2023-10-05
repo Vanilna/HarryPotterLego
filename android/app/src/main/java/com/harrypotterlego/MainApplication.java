@@ -1,4 +1,4 @@
-package com.harrypoterlego;
+package com.harrypotterlego;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

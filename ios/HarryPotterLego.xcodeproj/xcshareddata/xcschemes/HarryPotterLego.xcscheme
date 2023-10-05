@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "HarryPoterLego.app"
-               BlueprintName = "HarryPoterLego"
-               ReferencedContainer = "container:HarryPoterLego.xcodeproj">
+               BuildableName = "HarryPotterLego.app"
+               BlueprintName = "HarryPotterLego"
+               ReferencedContainer = "container:HarryPotterLego.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "HarryPoterLegoTests.xctest"
-               BlueprintName = "HarryPoterLegoTests"
-               ReferencedContainer = "container:HarryPoterLego.xcodeproj">
+               BuildableName = "HarryPotterLegoTests.xctest"
+               BlueprintName = "HarryPotterLegoTests"
+               ReferencedContainer = "container:HarryPotterLego.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "HarryPoterLego.app"
-            BlueprintName = "HarryPoterLego"
-            ReferencedContainer = "container:HarryPoterLego.xcodeproj">
+            BuildableName = "HarryPotterLego.app"
+            BlueprintName = "HarryPotterLego"
+            ReferencedContainer = "container:HarryPotterLego.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "HarryPoterLego.app"
-            BlueprintName = "HarryPoterLego"
-            ReferencedContainer = "container:HarryPoterLego.xcodeproj">
+            BuildableName = "HarryPotterLego.app"
+            BlueprintName = "HarryPotterLego"
+            ReferencedContainer = "container:HarryPotterLego.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,4 +1,4 @@
-package com.harrypoterlego;
+package com.harrypotterlego;
 
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
@@ -14,7 +14,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "HarryPoterLego";
+    return "HarryPotterLego";
   }
 
   /**
