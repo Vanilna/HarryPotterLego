@@ -1,0 +1,1 @@
+export { ChooseMinifigScreen } from './ChooseMinifigScreen';
