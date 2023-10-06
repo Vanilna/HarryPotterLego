@@ -1,5 +1,6 @@
-import { AppColors } from '@/theme/colors';
 import { StyleSheet } from 'react-native';
+
+import { AppColors } from '@/theme/colors';
 
 export const styles = StyleSheet.create({
   cardContainer: {
@@ -12,8 +13,10 @@ export const styles = StyleSheet.create({
     borderWidth: 3,
   },
   cardContent: {
+    height: 450,
     padding: 30,
     backgroundColor: AppColors.light_background,
+    justifyContent: 'space-between',
   },
   image: {
     width: 120,

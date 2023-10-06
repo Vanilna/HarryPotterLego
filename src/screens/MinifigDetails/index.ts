@@ -1,0 +1,1 @@
+export { MinifigDetailsScreen } from './MinifigDetailsScreen';
