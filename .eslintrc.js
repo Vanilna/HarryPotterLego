@@ -8,6 +8,7 @@ module.exports = {
     'plugin:import/errors',
     'plugin:import/typescript',
     'plugin:react-native-a11y/all',
+    'plugin:@tanstack/eslint-plugin-query/recommended',
   ],
   settings: {
     'import/resolver': {
